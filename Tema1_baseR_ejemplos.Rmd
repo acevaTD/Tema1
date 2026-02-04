@@ -302,6 +302,6 @@ head(d)
 str(d)
 ```
 
-# Bibliografía (del Tema 1)
+# Bibliografía (del Tema 1) ##AA##
 
 - Pearson, R. K. *Exploratory Data Analysis Using R*. Chapman & Hall/CRC (2018).
